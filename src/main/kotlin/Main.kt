@@ -1,4 +1,4 @@
-// Alan Arturo Cano Sanchez
+// Alan Arturo Cano Sanchez Seguridad de datos
 package org.example
 
 import javax.swing.JOptionPane
